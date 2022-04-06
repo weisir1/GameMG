@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">拼嘻嘻</string>
+    <string-array name="spinner">
+        <item>简单模式</item>
+        <item>正常模式</item>
+        <item>高手模式</item>
+        <item>专业模式</item>
+        <item>不可想象</item>
+    </string-array>
+</resources>
